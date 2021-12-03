@@ -14,7 +14,27 @@
   * [Linear Algebra Done Right](https://linear.axler.net) by Axler
   * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Tibshirani et al
   * [Stanford’s CS229 (Machine Learning)](http://cs229.stanford.edu/syllabus.html#opt) Course Notes
+## Calculus
+* [18.01: Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+* [18.02: Multi-Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+* [18.03: Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
+* [6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/)
+
+## Linear Algebra
+* [18.06: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+## Probability
+[6.041: Probabilistic Systems Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/)
+
+## Design and Analysis of Algorithms
+[6.046J: Design and Analysis of Algorithms](http://stellar.mit.edu/S/course/6/sp15/6.046J/materials.html)
+
+## AL
+[6.034: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+
+## Principles of Microeconomics
+[14.01: Principles of Microeconomics](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/)
 # Machine Learning: 
 * [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml)
 * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/) by Martin Zinkevich, Research Scientist at Google
