@@ -15,6 +15,12 @@
   * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Tibshirani et al
   * [Stanford’s CS229 (Machine Learning)](http://cs229.stanford.edu/syllabus.html#opt) Course Notes
 
-## Rules of Machine Learning: 
+# Machine Learning: 
 * [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml)
 * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/) by Martin Zinkevich, Research Scientist at Google
+
+# Deep Learning
+* [Practical Deep Learning for Coders](https://course.fast.ai)
+
+
+## To make [flash card](https://apps.ankiweb.net)
