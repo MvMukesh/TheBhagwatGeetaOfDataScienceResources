@@ -1,2 +1,1 @@
-# TheBhagwatGeetaOfDataScienceResources
-All important resources related to Machine Learning and Data Science
+# One stop for all free and important links related with Data Science and Machine Learning
