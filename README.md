@@ -35,6 +35,10 @@
 
 ## Principles of Microeconomics
 [14.01: Principles of Microeconomics](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/)
+
+## Computer vision
+* [6.801: Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/index.htm)
+
 # Machine Learning: 
 * [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml)
 * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/) by Martin Zinkevich, Research Scientist at Google
