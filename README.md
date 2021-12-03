@@ -24,3 +24,19 @@
 
 
 ## To make [flash card](https://apps.ankiweb.net)
+
+
+-----
+-----
+The Most Important Part
+
+# `Getting Feedback`
+A last thing that I think is really important is to get enough feedback during learning process. I want you to collect feedback as follows:
+
+* Kaggle results: How do oyu perform on the Kaggle challenges that you attempt?
+
+* Meta feedback: How your Kaggle rankings develop? Are you getting better? How quickly (i.e. what's your learning rate)? If not why not?
+
+* Weekly review posts: I want you to write a weekly post discussing your progress. Submit posts to reddit (e.g. /r/datascience or /r/learnmachinelearning), LinkedIn, Medium etc and then get some feedback and advice via comments. You don't know if they want you, but try and try.
+
+* Local meetups: Find any large data science meetups - Present this learning project there and hopefully find some mentors who can provide direct feedback on your resuls and how you should adjust schedule. Maybe you can even find some kind of mentor who can help you with direct feedback.
