@@ -39,6 +39,8 @@
 ## Computer vision
 * [6.801: Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/index.htm)
 
+[Other Course](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience&spec=artificialintelligence)
+
 # Machine Learning: 
 * [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml)
 * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/) by Martin Zinkevich, Research Scientist at Google
