@@ -14,14 +14,14 @@
   * [Linear Algebra Done Right](https://linear.axler.net) by Axler
   * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Tibshirani et al
   * [Stanford’s CS229 (Machine Learning)](http://cs229.stanford.edu/syllabus.html#opt) Course Notes
-## Calculus
+## Calculus (MIT)
 * [18.01: Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 * [18.02: Multi-Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 * [18.03: Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 * [6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/)
 
-## Linear Algebra
+## Linear Algebra (MIT)
 * [18.06: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 ## Probability
