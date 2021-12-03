@@ -16,4 +16,5 @@
   * [Stanford’s CS229 (Machine Learning)](http://cs229.stanford.edu/syllabus.html#opt) Course Notes
 
 ## Rules of Machine Learning: 
+* [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml)
 * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/) by Martin Zinkevich, Research Scientist at Google
