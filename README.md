@@ -1,4 +1,4 @@
-# One stop for all free and important links related with Data Science and Machine Learning
+# Want to learn Data Science and Machine Learning for free, here are some related important links
 
 ## How much `Math` is to much math for Data Science:
 1. Be comfortable with
